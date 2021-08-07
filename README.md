@@ -9,3 +9,5 @@
 
 ## Data Description
 The competition data is defined by three cohorts: Training, Validation (Public), and Testing (Private). The “Training” and the “Validation” cohorts are provided to the participants, whereas the “Testing” cohort is kept hidden at all times, during and after the competition.
+
+## Acknowledgments
